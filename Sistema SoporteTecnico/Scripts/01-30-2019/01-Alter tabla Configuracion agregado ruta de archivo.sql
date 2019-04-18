@@ -1,0 +1,1 @@
+Alter table Configuracion add RutaArchivo varchar(max) default('') constraint DF_Configuracion_RutaArchivo not null

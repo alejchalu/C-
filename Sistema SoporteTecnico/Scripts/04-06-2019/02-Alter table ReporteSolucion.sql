@@ -1,0 +1,1 @@
+Alter table ReporteSoporte add CasoSolucionID smallint
