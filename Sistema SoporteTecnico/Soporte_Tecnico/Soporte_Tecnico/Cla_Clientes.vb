@@ -6,6 +6,7 @@
     Private Activo_ As Boolean
 
 #End Region
+
 #Region "Propiedades"
     Public Property Nombre As String
         Get
@@ -43,6 +44,7 @@
         End Set
     End Property
 #End Region
+
 #Region "Metodos"
     Public Function InsertarActualizar(ByRef Accion As String) As String
         Try
